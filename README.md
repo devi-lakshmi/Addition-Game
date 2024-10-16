@@ -23,7 +23,7 @@
 
  ### Option 1: View the Live Demo
 
-  You can view the live demo of the project https://additiongame2.netlify.app.
+  You can view the live demo of the project [here](https://additiongame2.netlify.app)
 
  ### Option 2: Run Locally
 
