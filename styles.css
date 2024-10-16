@@ -1,0 +1,48 @@
+.image{
+    width:360px;
+    height:280px;
+
+
+}
+.bg-container{
+    background-color: #f5f7fa;
+}
+.number{
+       font-family:"Roboto";
+        border-radius: 10px;
+        background-color: #cbd2d9;
+        font-size: 30px;
+        font-weight: bold;
+        border-style: solid;
+        border-width: 5px;
+        border-color: #e4e7eb;
+}
+    
+
+
+.operator{
+    font-family:"Roboto";
+    font-size:40px;
+    color:#c4c4c4;
+   
+}
+
+.user-input{
+    background-color: #cbd2d9;
+    border-radius: 7px;
+    border-color:#e4e7eb;
+    width:140px;
+    height:50px;
+    border-style:solid;
+    border-width:6px;
+    margin:10px;
+    font-size:30px;
+    font-weight:bold;
+}
+.game-result{
+    color:#ffff;
+    font-size:30px;
+   
+    font-weight:500;
+    font-family: "Roboto";
+}
