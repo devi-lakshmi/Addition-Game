@@ -1,12 +1,12 @@
 # Addition Game
 
- The **Addition Game** is a simple interactive web app where users solve basic addition problems. Users are presented with two random numbers, and they must input the correct sum. The app allows users to check their answer and restart the game with new random numbers.
+ The **Addition Game** is a simple interactive web app where users solve basic addition problems. Users are presented with two random numbers, and they must input the correct sum. The app allows users to check their answers and restart the game with new random numbers.
 
 
 ## Tech Stack
 
 - **HTML5**: For structuring the web page.
-- **CSS3**: For styling the layout and design.
+- **CSS**: For styling the layout and design.
 - **JavaScript**: For generating random numbers, handling user input, and checking answers.
 - **Bootstrap**: For responsive design and layout components.
 
