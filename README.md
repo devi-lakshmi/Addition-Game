@@ -29,4 +29,4 @@
 
   1. **Clone the repository** to your local machine using the following command:
    ```bash
-   git clone https://github.com/yourusername/addition-game.git
+   git@github.com:devi-lakshmi/Addition-Game.git
